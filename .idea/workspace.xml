@@ -6,16 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="eccd23ef-81d6-4779-a13e-dba3bfc13673" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/analytics-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notification-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/notification-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payment-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/profile-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/review-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/review-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shipping-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shipping-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/analytics-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/category-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notification-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/notification-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/payment-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/profile-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/review-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/search-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shipping-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shipping-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +181,7 @@
       <workItem from="1703259630319" duration="5800000" />
       <workItem from="1703297568188" duration="19000" />
       <workItem from="1703297713457" duration="258000" />
-      <workItem from="1703298235847" duration="122000" />
+      <workItem from="1703298235847" duration="1420000" />
     </task>
     <servers />
   </component>
